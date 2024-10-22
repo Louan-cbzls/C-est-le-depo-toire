@@ -1,0 +1,1 @@
+En gros je teste les bails pour pas que le fichier soit vide. C'est important pour que le fichier soit pas inutile dans le but que Git râle pas sans raison parce que askip j'en branle pas une.
